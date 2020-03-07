@@ -1,4 +1,4 @@
-# keyboard-windows
+# enter2ctrl-windows
 AutoHotkey script -- Left Control is Escape when released; Enter when pressed is Control modifier, when released Enter
 
 This script utilizes AutoHotkey script "dual".
